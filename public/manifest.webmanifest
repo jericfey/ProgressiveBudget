@@ -1,7 +1,7 @@
 {
   "name": "Progressive Budget",
   "short_name": "BudgetTrack",
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#fff",
   "description": "A Budget transaction tracking application.",
