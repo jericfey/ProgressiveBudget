@@ -1,6 +1,6 @@
 # ProgressiveBudget
 
-A budget tracking app that can be saved as an application on mobile devices. 
+A budget tracking app that can be saved as an application on mobile devices.
 
 ## Description
 
@@ -17,16 +17,17 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 ## Installation
 
-This application is a PWA and can be downloaded to mobile device or accessed at this website. 
-https://stormy-cliffs-32348.herokuapp.com/ 
+This application is a PWA and can be downloaded to mobile device or accessed at site linked in Deployment section.
 
 ## Usage
 
-This app allows the user to add transactions offline as well. 
+This app allows the user to add transactions offline as well.
 
 ## Deployment
 
-[Heroku Deployment](#)
+[Heroku Deployment](https://stormy-cliffs-32348.herokuapp.com/)
+
+![Application Image](./public/images/BidgetTracker.jpg)
 
 ## Functionality
 
@@ -46,8 +47,7 @@ MIT - A short, permissive software license. Basically, you can do whatever you w
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
 ## Questions
 
-If you have any questions about the project: 
+If you have any questions about the project:
 https://jericfey.github.io/ResponsivePortfolio/contact.html
